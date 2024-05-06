@@ -136,4 +136,3 @@ phpinfo();
 Now, visit `http://<your_ec2_public_ip>/info.php` in a web browser to see PHP information.
 
 That's it! You've successfully deployed a LAMP stack project on AWS.
-```
