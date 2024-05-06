@@ -136,3 +136,7 @@ phpinfo();
 Now, visit `http://<your_ec2_public_ip>/info.php` in a web browser to see PHP information.
 
 That's it! You've successfully deployed a LAMP stack project on AWS.
+
+## Conclusion
+By following these steps, you have successfully deployed a LAMP stack project on AWS. This setup provides a solid foundation for hosting dynamic web applications and websites. Remember to regularly update and secure your server to ensure its stability and security.
+
